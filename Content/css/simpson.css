@@ -1,0 +1,17 @@
+/* Utilisation de fonts */
+@font-face { font-family: "Merienda"; src: url('../fonts/MeriendaOne-Regular.ttf'); }
+@font-face { font-family: "AlexandriaFLF"; src: url('../fonts/AlexandriaFLF-Bold.ttf'); }
+body{
+    width: 60%;
+    margin-left: 20%;
+    font-family: AlexandriaFLF;
+}
+
+h1{
+    color : darkred;
+    font-family: Merienda;
+}
+ .personnage{
+    width:400px;
+    height: 300px ;
+}
